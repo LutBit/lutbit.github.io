@@ -8,3 +8,6 @@ Bilbo is der Onkel von Frodo. In der Geschichte der Herr der Ringe ist ihm ein e
 
 ## Lieblingszitat von Bilbo
 >Ich kenn' die Hälfte von euch nur halb so gut, wie ich’s gern möchte, und ich mag weniger als die Hälfte von euch auch nur halb so gern, wie ihr’s verdient.
+
+<img src= "http://www.florianehoy.fr/hobbit/img/bilbo-perso.jpg">
+
